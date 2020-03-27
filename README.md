@@ -43,7 +43,9 @@ Tulet käyttämään samaa Kissa.cs-tiedostoa useammassa tehtävässä.
 
        - public <tietotyyppi> </tietotyyppi>PalautaKissanNimi() - palauttaa kissan nimen (return) 
 
-       - public <tietotyyppi> </tietotyyppi>PalautaKissanIka() - palauttaa kissan iän (return) 
+       - public <tietotyyppi> </tietotyyppi>PalautaKissanIka() - palauttaa kissan iän (return)
+       - Koska tehtävissä tulemme tulostamaan kissan tietoja useasti tehdään toiminteelle oma metodi
+       - public void TulostaTiedot() 
 
  
 
