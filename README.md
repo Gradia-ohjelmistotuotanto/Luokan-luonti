@@ -1,30 +1,27 @@
 # Luokan-luonti
 Olio-ohjelmointi tehtävä 2
-
-<h2>Vaihe 1 </h2>
- Luo projektiin uusi Kissa.cs -luokkatiedosto 
-
+**Vaihe 1**
+ Luo projektiin uusi Kissa.cs -luokkatiedosto
+ ```
      - Valitse projektisi Solutionin alta oikealla hiirenpainikkeella 
      - Sieltä Add 
      - Sieltä New Item 
      - Sieltä New Class  
      - Nimeä tiedosto Kissa.cs 
      - Tallenna 
-
+```
 Tulet käyttämään samaa Kissa.cs-tiedostoa useammassa tehtävässä. 
 
-<h2>Vaihe 2 </h2>
+**Vaihe 2**
 
  
 
  Muokka Kissa.cs-tiedostoa ja tee Kissa-luokkaan ominaisuudet: 
-
+```
       Huom! Älä käytä ääkkösiä! Voit tehdä myös englanniksi. 
 
       Attribuutit: 
-
        - kissan ikä (private, valitse oikea tietotyyppi) 
-
        - kissan nimi (public, valitse oikea tietotyyppi) 
 
       Konstruktorit: 
@@ -32,22 +29,14 @@ Tulet käyttämään samaa Kissa.cs-tiedostoa useammassa tehtävässä.
        - Parametriton konstruktori 
 
        - Parametrillinen konstruktori, joka: 
+           asettaa kissan iän 
+           asettaa kissan nimen 
 
-          o asettaa kissan iän 
+   Aseta jokaiselle atribuutille Getter ja Setter
+  ```  
+   [![Getter ja Setter video](http://i3.ytimg.com/vi/EbW-1fPhXQE/hqdefault.jpg)](https://youtu.be/EbW-1fPhXQE)
 
-          o asettaa kissan nimen 
 
-      Funktiot oikeine parametreineen ja paluumuuttujineen (public): 
-
-       - public AsetaKissanNimi(<parameterina kissan nimi>) - tallentaa kissan nimen public-muuttujaan 
-
-       - public <tietotyyppi> </tietotyyppi>PalautaKissanNimi() - palauttaa kissan nimen (return) 
-
-       - public <tietotyyppi> </tietotyyppi>PalautaKissanIka() - palauttaa kissan iän (return)
-       - Koska tehtävissä tulemme tulostamaan kissan tietoja useasti tehdään toiminteelle oma metodi
-       - public void TulostaTiedot() 
-
- 
 
 <h2>Vaihe 3 </h2>
  
