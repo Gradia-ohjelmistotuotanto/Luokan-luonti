@@ -1,5 +1,5 @@
 # Luokan-luonti
-Olio-ohjlemointi tehtävä 2
+Olio-ohjelmointi tehtävä 2
 
 <h2>Vaihe 1 </h2>
  Luo projektiin uusi Kissa.cs -luokkatiedosto 
