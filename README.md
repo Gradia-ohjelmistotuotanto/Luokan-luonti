@@ -52,7 +52,7 @@ Tulet käyttämään samaa Kissa.cs-tiedostoa useammassa tehtävässä.
 
  
 
- Luo projektiin uusi Kissa.cs -luokkatiedosto 
+  
 
       -Ota Uusi Kissa-luokka Program.cs:ssä käyttöön luomalla uusi kissa-olio
        parametrittomalla konstruktorilla.
