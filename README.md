@@ -59,11 +59,10 @@ Tulet käyttämään samaa Kissa.cs-tiedostoa useammassa tehtävässä.
       -Ota Uusi Kissa-luokka Program.cs:ssä käyttöön luomalla uusi kissa-olio
        parametrittomalla konstruktorilla.
       -Anna sen jälkeen kissalle nimi suoraan public muuttujalla.
-      -Tulosta kissan nimi.
+      -Hae kissan nimi ja tulosta pääohjelmassa.
       -Anna kissalle uusi nimi public -metodilla
-      -Tulosta kissan nimi.
-      -Tulosta kissan ikä.
+      -Tulosta kissan tiedot motedilla.
       -Tee uusi kissa-olio ja anna ikä ja nimi konstruktorissa.
-      -Tulosta uuden olion tiedot nimi ja ikä.
+      -Tulosta uuden olion tiedot metodilla.
 
  
